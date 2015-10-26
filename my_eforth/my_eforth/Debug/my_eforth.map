@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.1.57  C:\Users\Dennis\Documents\Atmel Studio\7.0\my_eforth\my_eforth\my_eforth.asm Sun Oct 04 14:54:20 2015
+AVRASM ver. 2.1.57  C:\cygwin64\usr\src\328eforth\my_eforth\my_eforth\my_eforth.asm Sat Oct 17 19:44:11 2015
 
 
 EQU  SIGNATURE_000 0000001e
